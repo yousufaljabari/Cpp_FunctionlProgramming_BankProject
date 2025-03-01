@@ -1,0 +1,4 @@
+﻿  BankExten2cpp.cpp
+C:\Users\Victus\OneDrive\BankExtens2\Bank2Exten\BankExten2cpp.cpp(165,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Victus\OneDrive\BankExtens2\Bank2Exten\BankExten2cpp.cpp(594,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Bank2Exten.vcxproj -> C:\Users\Victus\OneDrive\BankExtens2\Bank2Exten\x64\Debug\Bank2Exten.exe
